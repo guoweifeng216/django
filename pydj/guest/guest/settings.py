@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'sign',
+    'sign',# 添加 sign 应用
     'bootstrap3',
 ]
 
